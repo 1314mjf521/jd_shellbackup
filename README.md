@@ -313,15 +313,6 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 
 ***
 
-## 明天会更好
-##<img src="./icon/thank.jpg" width="280" height="280" alt="微信赞赏码"/><br/>
-### 开发不易、维护艰辛，如果您愿意支持此项目，可向我捐助。
 
-***
-
-## Stargazers over time
-<img src="https://starchart.cc/SuperManito/JD-FreeFuck.svg" width="550" height="250" alt="Stargazers over time"/><br/>
-
-***
 
 __如果您觉得这个项目不错的话可以在右上角给颗⭐吗？您的支持是我最大的动力，方便分享给更多的朋友吗？__
