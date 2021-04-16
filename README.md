@@ -111,7 +111,7 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 > 仅支持 `Debian` 与 `Redhat` 发行版和及其衍生发行版\
 > 尽量使用最新的稳定版系统，并且安装语言使用 `简体中文`\
 > 否则请使用 `Docker` 通用版本部署此项目\
-> 附：[ Windows10 安装 WSL Ubuntu 教程](https://gitee.com/mjf521/JD-FreeFuck/wiki/Windows10-Install-WSL-Ubuntu)
+> 附：[ Windows10 安装 WSL Ubuntu 教程](https://gitee.com/mjf521/JD_shell/wiki/Windows10-Install-WSL-Ubuntu)
 #### __部署前需知与准备工作：__
 1. 执行命令前请检查您当前环境是否联网，并请切换至 `root` 用户，切换命令为 `sudo -i`。
 2. 如果您使用的是 CentOS 系统且最小化安装，请通过 SSH 的方式进入到终端。
@@ -140,7 +140,7 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 |   Kali      |  2019 ~ 2021.1  |
 > 友情提示：如果您的系统或版本不在此列表中则无法使用此脚本，即时误执行也不会有任何的更改
 #### __脚本一键部署：__
-    bash <(curl -sSL https://gitee.com/mjf521/JD-FreeFuck/raw/main/install.sh)
+    bash <(curl -sSL https://gitee.com/mjf521/JD_shell/raw/main/install.sh)
 > _注意：如果您想安装到其它目录，请下载该脚本后更改相关变量手动部署，同时在未来的手动更新中也需如此操作。_
 #### __设置全局环境变量：__
     source /etc/profile
@@ -265,10 +265,10 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 
 ## 四、使用项目
 #### __活动列表与入口：__
-- __[点击此处查看](https://gitee.com/mjf521/JD-FreeFuck/wiki/Activity-List)__
+- __[点击此处查看](https://gitee.com/mjf521/JD_shell/wiki/Activity-List)__
 #### __使用与更新教程：__
-- __`Linux` 版本ㅤㅤ[点击此处前往](https://gitee.com/mjf521/JD-FreeFuck/wiki/Linux-Use-And-Update-Tutorial)__
-- __`Docker` 版本 ㅤ[点击此处前往](https://gitee.com/mjf521/JD-FreeFuck/wiki/Docker-Use-And-Update-Tutorial)__
+- __`Linux` 版本ㅤㅤ[点击此处前往](https://gitee.com/mjf521/JD_shell/wiki/Linux-Use-And-Update-Tutorial)__
+- __`Docker` 版本 ㅤ[点击此处前往](https://gitee.com/mjf521/JD_shell/wiki/Docker-Use-And-Update-Tutorial)__
 > _重要提醒：您使用的是哪个版本就用哪个版本的教程，不要错用、混用，更不要擅自使用本项目之外的教程命令，否则出现问题后果自负！_
 #### __项目通知：__
 > `更新` 代表有新的内容增加，您可以更新也可以继续使用之前的版本，不影响当前使用，除非说明需要重新部署\
@@ -308,7 +308,7 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 ***
 
 ## 六、帮助与支持
-- __如果您有意见与建议或者遇到问题需要我的协助，欢迎到 [Issues](https://github.com/SuperManito/JD-FreeFuck/issues) 提交您的反馈__
+- __如果您有意见与建议或者遇到问题需要我的协助，欢迎到 [Issues](https://github.com/mjf521/JD_shell/issues) 提交您的反馈__
 - __为了提高效率快速解决您的问题，请严格按照模板提交，感谢您的理解与配合__
 
 ***
