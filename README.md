@@ -265,10 +265,10 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 
 ## 四、使用项目
 #### __活动列表与入口：__
-- __[点击此处查看](https://gitee.com/mjf521/JD_shell/wiki/Activity-List)__
+- __[点击此处查看](https://gitee.com/mjf521/JD-FreeFuck/wiki/Activity-List)__
 #### __使用与更新教程：__
-- __`Linux` 版本ㅤㅤ[点击此处前往](https://gitee.com/mjf521/JD_shell/wiki/Linux-Use-And-Update-Tutorial)__
-- __`Docker` 版本 ㅤ[点击此处前往](https://gitee.com/mjf521/JD_shell/wiki/Docker-Use-And-Update-Tutorial)__
+- __`Linux` 版本ㅤㅤ[点击此处前往](https://gitee.com/mjf521/JD-FreeFuck/wikis/Linux-Use-And-Update-Tutorial)__
+- __`Docker` 版本 ㅤ[点击此处前往](https://gitee.com/mjf521/JD-FreeFuck/wikis/Docker-Use-And-Update-Tutorial)__
 > _重要提醒：您使用的是哪个版本就用哪个版本的教程，不要错用、混用，更不要擅自使用本项目之外的教程命令，否则出现问题后果自负！_
 #### __项目通知：__
 > `更新` 代表有新的内容增加，您可以更新也可以继续使用之前的版本，不影响当前使用，除非说明需要重新部署\
