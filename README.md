@@ -265,7 +265,7 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 
 ## 四、使用项目
 #### __活动列表与入口：__
-- __[点击此处查看](https://gitee.com/mjf521/JD-FreeFuck/wiki/Activity-List)__
+- __[点击此处查看](https://gitee.com/mjf521/JD-FreeFuck/wikis/Activity-List)__
 #### __使用与更新教程：__
 - __`Linux` 版本ㅤㅤ[点击此处前往](https://gitee.com/mjf521/JD-FreeFuck/wikis/Linux-Use-And-Update-Tutorial)__
 - __`Docker` 版本 ㅤ[点击此处前往](https://gitee.com/mjf521/JD-FreeFuck/wikis/Docker-Use-And-Update-Tutorial)__
