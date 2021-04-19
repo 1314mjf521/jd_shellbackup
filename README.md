@@ -39,7 +39,7 @@ __如果您觉得这个项目不错的话可以在右上角给颗⭐吗？您的
 - __适用平台：PC、VPS (虚拟专用服务器) 、NAS 、软路由__
 - __适用环境：GNU/Linux & Docker Server__
 
-__ㅤㅤ`码云Gitee` 同步更新：[点击此处访问](hhttps://gitee.com/mjf521/JD-FreeFuck)__
+__ㅤㅤ`码云Gitee` 同步更新：[点击此处访问](https://gitee.com/mjf521/JD-FreeFuck)__
 
 ## 特别声明：
 
@@ -111,7 +111,7 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 > 仅支持 `Debian` 与 `Redhat` 发行版和及其衍生发行版\
 > 尽量使用最新的稳定版系统，并且安装语言使用 `简体中文`\
 > 否则请使用 `Docker` 通用版本部署此项目\
-> 附：[ Windows10 安装 WSL Ubuntu 教程](https://gitee.com/mjf521/JD-FreeFuck/wiki/Windows10-Install-WSL-Ubuntu)
+> 附：[ Windows10 安装 WSL Ubuntu 教程](https://gitee.com/mjf521/JD-FreeFuck/wikis/Windows10-Install-WSL-Ubuntu)
 #### __部署前需知与准备工作：__
 1. 执行命令前请检查您当前环境是否联网，并请切换至 `root` 用户，切换命令为 `sudo -i`。
 2. 如果您使用的是 CentOS 系统且最小化安装，请通过 SSH 的方式进入到终端。
@@ -240,8 +240,8 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 
 #### 关于获取账户信息的途径：
 - 通过 `控制面板` 功能进入 `WEB网页` 手机APP扫码获取，获取后可直接在配置文件中配置 __（优先推荐）__
-- 通过浏览器 `开发工具` 获取，请前往 Wiki 查看具体的图文教程ㅤ[点击此处前往](https://github.com/SuperManito/JD-FreeFuck/wiki/GetCookies1)
-- 通过浏览器 `扩展插件` 获取，请前往 Wiki 查看具体的图文教程ㅤ[点击此处前往](https://github.com/SuperManito/JD-FreeFuck/wiki/GetCookies1)
+- 通过浏览器 `开发工具` 获取，请前往 Wiki 查看具体的图文教程ㅤ[点击此处前往](https://gitee.com/mjf521/JD-FreeFuck/wikis/GetCookies1)
+- 通过浏览器 `扩展插件` 获取，请前往 Wiki 查看具体的图文教程ㅤ[点击此处前往](https://gitee.com/mjf521/JD-FreeFuck/wikis/GetCookies1)
 > 所有方式获取的 `Cookie` 有效期均为1个月，过期后活动脚本会有提示，届时您需要手动更新您的账户信息
 #### __配置账户信息：__
 - 将获得的 `Cookie部分内容` 填入下面命令中的 `"双引号"` 内，然后复制完整命令到终端并执行：
