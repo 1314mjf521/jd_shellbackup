@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
 ## Author: SuperManito
 ## Modified: 2021-4-22
+
 ##############################  作  者  昵  称  （必填）  ##############################
 # 使用空格隔开
-author_list="1"
+author_list="1 longzhuzhu"
 
 ##############################  作  者  脚  本  地  址  URL  （必填）  ##############################
 # 例如：https://raw.sevencdn.com/whyour/hundun/master/quanx/jx_nc.js
@@ -11,12 +12,13 @@ author_list="1"
 # 2.将地址最后的 “脚本名称+后缀” 剪切到下一个变量里（my_scripts_list_xxx）
 
 scripts_base_url_1=https://gitee.com/SuperManito/scripts/raw/master/
-
+scripts_base_url_2=https://github.com/nianyuguai/longzhuzhu/tree/main/qx/
 ## 添加更多脚本地址URL示例：scripts_base_url_3=https://raw.sevencdn.com/whyour/hundun/master/quanx/
 
 ##############################  作  者  脚  本  名  称  （必填）  ##############################
 # 将相应作者的脚本填写到以下变量中
 my_scripts_list_1="jd_paopao.js jd_mother_jump.js jd_shake.js jd_inter_shopsign.js jd_shop_followsku.js jd_shop_lottery.js jd_skyworth.js"
+my_scripts_list_2=" jd_live_lottery_social.js jd_super_redrain.js"
 
 ##############################  随  机  函  数  ##############################
 rand() {
