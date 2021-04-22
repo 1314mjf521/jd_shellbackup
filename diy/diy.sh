@@ -12,7 +12,7 @@ author_list="1 longzhuzhu"
 # 2.将地址最后的 “脚本名称+后缀” 剪切到下一个变量里（my_scripts_list_xxx）
 
 scripts_base_url_1=https://gitee.com/SuperManito/scripts/raw/master/
-scripts_base_url_2=https://github.com/nianyuguai/longzhuzhu/tree/main/qx/
+scripts_base_url_2=https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/
 ## 添加更多脚本地址URL示例：scripts_base_url_3=https://raw.sevencdn.com/whyour/hundun/master/quanx/
 
 ##############################  作  者  脚  本  名  称  （必填）  ##############################
