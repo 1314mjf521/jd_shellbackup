@@ -367,6 +367,7 @@ function UseNotes() {
     echo -e ''
     echo -e "\033[32m --------------------------- 更多帮助请访问   https://github.com/1314mjf521/JD-FreeFuck --------------------------- \033[0m"
     echo -e "\033[32m --------------------------- Github & Gitee   https://gitee.com/mjf521/JD-FreeFuck  --------------------------- \033[0m"
+    echo -e "\033[32m -------------如果大家觉得好用请之脚本页面进行赞赏 https://gitee.com/mjf521/JD-FreeFuck/tree/main/help ------------ \033[0m"
     echo -e ''
 }
 
