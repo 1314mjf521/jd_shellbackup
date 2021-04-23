@@ -200,7 +200,7 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
       官方安装教程：https://docs.docker.com/desktop
 > _ㅤ注意：`Docker Desktop` 对系统版本有一定的要求，且与虚拟机存在兼容性问题，遇到问题请自行解决。_
 #### __下载镜像：__
-    docker pull registry.cn-hangzhou.aliyuncs.com/supermanito/jd
+    docker pull supermanito/helloworld
 > _注意：1.此镜像大约需要占用 `239MB` 的空闲存储空间，目前最新版本的镜像ID为 `d9df47b78ff6` 。_\
 > _ㅤㅤㅤ2.若下载速度较慢，可配置镜像加速器以解决网速的问题。_
 #### __启动容器：__
