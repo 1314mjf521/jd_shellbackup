@@ -28,7 +28,7 @@ scripts_base_url_2=https://gitee.com/mjf521/longzhuzhu/raw/master/qx/
 ##############################  作  者  脚  本  名  称  （必填）  ##############################
 # 将相应作者的脚本填写到以下变量中
 my_scripts_list_1="jd_entertainment.js jd_inter_shopsign.js jd_mother_jump.js jd_paopao.js jd_shake.js jd_shop_followsku.js jd_shop_lottery.js jd_skyworth.js jd_try.js jd_xmf.js jx_cfdtx.js"
-my_scripts_list_2=" jd_half_redrain.js jd_super_redrain.js"
+my_scripts_list_2="jd_half_redrain.js jd_super_redrain.js"
 
 ##############################  随  机  函  数  ##############################
 rand() {
