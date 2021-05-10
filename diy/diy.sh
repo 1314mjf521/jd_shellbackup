@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 ## Author: SuperManito
-## Modified: 2021-4-22
+## Modified: 2021-5-10
 
 cat /etc/hosts | grep "raw.githubusercontent.com" -q
 if [ $? -ne 0 ]; then
