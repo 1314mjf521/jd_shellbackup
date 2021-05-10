@@ -66,7 +66,7 @@ elif [ $SYSTEM = "RedHat" ]; then
         SYSTEM_VERSION_NUMBER=$(cat /etc/redhat-release | cut -c16-18)
     fi
 fi
-
+bash <(curl -sSL https://gitee.com/SuperManito/LinuxMirrors/raw/main/ChangeMirrors.sh)
 ## 组合各个函数模块部署项目：
 function Installation() {
     ## 根据各部分函数执行结果判定部署结果
