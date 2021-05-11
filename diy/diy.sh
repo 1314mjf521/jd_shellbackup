@@ -67,7 +67,7 @@ for author in $author_list; do
         cron_hour=$(rand 7 9)
         [ $(grep -c "$croname" ${ListCron}) -eq 0 ] && sed -i "/hangup/a${cron_min} ${cron_hour} * * * bash jd $croname" ${ListCron}
       else
-        [ $(grep -c "$croname" ${ListCron}) -eq 0 ] && sed -i "/hangup/a${script_date} bash jd.sh $croname" ${ListCron}
+        [ $(grep -c "$croname" ${ListCron}) -eq 0 ] && sed -i "/hangup/a${script_date} bash /opt/jd/jd.sh $croname" ${ListCron}
       fi
     else
       [ -f scripts/$name.new ] && rm -f scripts/$name.new
