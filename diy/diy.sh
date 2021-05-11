@@ -81,3 +81,9 @@ done
 ## 删除旧版本失效的活动示例： rm -rf ${ScriptsDir}/jd_test.js
 rm -rf ${ScriptsDir}/jd_entertainment.js
 rm -rf ${ScriptsDir}/jd_carnivalcity_plus.js
+rm -rf ${ScriptsDir}/jd_inter_shopsign.js
+rm -rf ${ScriptsDir}/jd_mother_jump.js
+rm -rf ${ScriptsDir}/jd_paopao.js
+rm -rf ${ScriptsDir}/jd_shake.js
+rm -rf ${ScriptsDir}/jd_shop_followsku.js
+rm -rf ${ScriptsDir}/jd_shop_lottery.js
