@@ -14,7 +14,7 @@ fi
 
 ##############################  作  者  昵  称  （必填）  ##############################
 # 使用空格隔开
-author_list="1 w"
+author_list="Public LongZhuZhu adolf"
 
 ##############################  作  者  脚  本  地  址  URL  （必填）  ##############################
 # 例如：https://raw.sevencdn.com/whyour/hundun/master/quanx/jx_nc.js
@@ -23,12 +23,14 @@ author_list="1 w"
 
 scripts_base_url_1=https://gitee.com/SuperManito/scripts/raw/master/
 scripts_base_url_2=https://gitee.com/mjf521/longzhuzhu/raw/main/qx/
+scripts_base_url_3=https://gitee.com/mjf521/dust/raw/dust/normal/
 ## 添加更多脚本地址URL示例：scripts_base_url_3=https://raw.sevencdn.com/whyour/hundun/master/quanx/
 
 ##############################  作  者  脚  本  名  称  （必填）  ##############################
 # 将相应作者的脚本填写到以下变量中
 my_scripts_list_1="jd_inter_shopsign.js jd_mother_jump.js jd_paopao.js jd_shake.js jd_shop_followsku.js jd_shop_lottery.js  jd_try.js  jx_cfdtx.js"
 my_scripts_list_2="jd_half_redrain.js jd_super_redrain.js"
+my_scripts_list_3="adolf_pk.js"
 
 ##############################  随  机  函  数  ##############################
 rand() {
