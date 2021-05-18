@@ -30,7 +30,7 @@ scripts_base_url_3=https://gitee.com/mjf521/dust/raw/dust/normal/
 # 将相应作者的脚本填写到以下变量中
 my_scripts_list_1="jd_inter_shopsign.js jd_mother_jump.js jd_paopao.js jd_shake.js jd_shop_followsku.js jd_shop_lottery.js  jd_try.js  jx_cfdtx.js"
 my_scripts_list_2="jd_half_redrain.js jd_super_redrain.js"
-my_scripts_list_3="adolf_pk.js"
+my_scripts_list_3="jx_pk.js"
 
 ##############################  随  机  函  数  ##############################
 rand() {
