@@ -86,4 +86,6 @@ done
  rm -rf ${ScriptsDir}/jd_entertainment.js
  rm -rf ${ScriptsDir}/jd_skyworth.js
  rm -rf ${ScriptsDir}/jd_xmf.js
-  rm -rf ${ScriptsDir}/adolf_pk.js
+ rm -rf ${ScriptsDir}/adolf_pk.js
+ rm -rf ${ScriptsDir}/jd_shop_follow_sku.js
+ rm -rf ${ScriptsDir}/jd_shop_followsku.js
