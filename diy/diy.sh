@@ -14,7 +14,7 @@ fi
 
 ##############################  作  者  昵  称  （必填）  ##############################
 # 使用空格隔开
-author_list="Public LongZhuZhu adolf passerby-b"
+author_list="Public LongZhuZhu adolf adolf1 passerby-b"
 
 ##############################  作  者  脚  本  地  址  URL  （必填）  ##############################
 # 例如：https://raw.sevencdn.com/whyour/hundun/master/quanx/jx_nc.js
@@ -26,6 +26,7 @@ scripts_base_url_2=https://gitee.com/mjf521/longzhuzhu/raw/main/qx/
 scripts_base_url_3=https://gitee.com/mjf521/dust/raw/dust/normal/
 #scripts_base_url_4=https://gitee.com/mjf521/hundun/raw/master/quanx/
 scripts_base_url_4=https://raw.githubusercontent.com/passerby-b/JDDJ/main/
+scripts_base_url_5=https://gitee.com/mjf521/dust/raw/dust/member/
 ## 添加更多脚本地址URL示例：scripts_base_url_3=https://raw.sevencdn.com/whyour/hundun/master/quanx/
 
 ##############################  作  者  脚  本  名  称  （必填）  ##############################
@@ -35,6 +36,7 @@ my_scripts_list_2="jd_half_redrain.js jd_super_redrain.js"
 my_scripts_list_3="jx_pk.js"
 # my_scripts_list_4="jd_stock.js jd_zjd.js jd_zjd_tuan.js jdzz.js jx_factory.js jx_factory_component.js jx_nc.js jx_products_detail.js jx_tokens.js jd_factory.js jd_xw.js"
 my_scripts_list_4="jddj_bean.js jddj_fruit.js jddj_fruit_collectWater.js jddj_getPoints.js jddj_plantBeans.js jddj_fruit_code.js jddj_cookie.js"
+my_scripts_list_5="jd_flp.js jd_oneplus.js jd_pasture.js"
 ##############################  随  机  函  数  ##############################
 rand() {
   min=$1
