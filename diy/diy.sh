@@ -14,7 +14,7 @@ fi
 
 ##############################  作  者  昵  称  （必填）  ##############################
 # 使用空格隔开
-author_list="Public LongZhuZhu 2 1 passerby-b"
+author_list="Public LongZhuZhu adolf 1 passerby-b"
 
 ##############################  作  者  脚  本  地  址  URL  （必填）  ##############################
 # 例如：https://raw.sevencdn.com/whyour/hundun/master/quanx/jx_nc.js
@@ -33,7 +33,7 @@ scripts_base_url_5=https://gitee.com/mjf521/dust/raw/dust/member/
 # 将相应作者的脚本填写到以下变量中
 my_scripts_list_1="jd_paopao.js jx_cfdtx.js"
 my_scripts_list_2="jd_half_redrain.js jd_super_redrain.js"
-my_scripts_list_3="jx_pk.js"
+my_scripts_list_3="monk_inter_shop_sign.js monk_shop_follow_sku.js monk_shop_lottery.js adolf_pk.js adolf_martin.js adolf_mi.js"
 # my_scripts_list_4="jd_stock.js jd_zjd.js jd_zjd_tuan.js jdzz.js jx_factory.js jx_factory_component.js jx_nc.js jx_products_detail.js jx_tokens.js jd_factory.js jd_xw.js"
 my_scripts_list_4="jddj_bean.js jddj_fruit.js jddj_fruit_collectWater.js jddj_getPoints.js jddj_plantBeans.js jddj_fruit_code.js jddj_cookie.js"
 my_scripts_list_5="jd_flp.js jd_oneplus.js jd_pasture.js"
