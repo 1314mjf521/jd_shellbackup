@@ -25,7 +25,7 @@ scripts_base_url_1=https://gitee.com/SuperManito/scripts/raw/master/
 scripts_base_url_2=https://gitee.com/mjf521/longzhuzhu/raw/main/qx/
 scripts_base_url_3=https://gitee.com/mjf521/dust/raw/dust/normal/
 #scripts_base_url_4=https://gitee.com/mjf521/hundun/raw/master/quanx/
-scripts_base_url_4=https://raw.githubusercontent.com/passerby-b/JDDJ/main/
+scripts_base_url_4=https://gitee.com/mjf521/JDDJ/edit/main/
 scripts_base_url_5=https://gitee.com/mjf521/dust/raw/dust/member/
 ## 添加更多脚本地址URL示例：scripts_base_url_3=https://raw.sevencdn.com/whyour/hundun/master/quanx/
 
