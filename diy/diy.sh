@@ -32,7 +32,7 @@ scripts_base_url_4=https://gitee.com/mjf521/dust/raw/dust/member/
 # 将相应作者的脚本填写到以下变量中
 my_scripts_list_1="jd_paopao.js jx_cfdtx.js"
 my_scripts_list_2="jd_half_redrain.js jd_super_redrain.js"
-my_scripts_list_3="jx_inter_shop_sign.js jx_shop_follow_sku.js jx_shop_lottery.js jx_pk.js jx_martin.js jx_mi.js"#
+my_scripts_list_3="jx_inter_shop_sign.js jx_shop_follow_sku.js jx_shop_lottery.js jx_pk.js jx_martin.js jx_mi.js"
 #my_scripts_list_4="jddj_bean.js jddj_fruit.js jddj_fruit_collectWater.js jddj_getPoints.js jddj_plantBeans.js jddj_fruit_code.js jddj_cookie.js"
 my_scripts_list_4="jx_flp.js jx_oneplus.js jx_pasture.js"
 #my_scripts_list_5="jddj_bean.js jddj_cookie.js"
