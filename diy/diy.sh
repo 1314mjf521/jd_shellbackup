@@ -35,7 +35,7 @@ my_scripts_list_2="jd_half_redrain.js jd_super_redrain.js"
 my_scripts_list_3="jx_inter_shop_sign.js jx_shop_follow_sku.js jx_shop_lottery.js jx_pk.js jx_martin.js jx_mi.js"#
 #my_scripts_list_4="jddj_bean.js jddj_fruit.js jddj_fruit_collectWater.js jddj_getPoints.js jddj_plantBeans.js jddj_fruit_code.js jddj_cookie.js"
 my_scripts_list_4="jx_flp.js jx_oneplus.js jx_pasture.js"
-my_scripts_list_5="jddj_bean.js"
+my_scripts_list_5="jddj_bean.js jddj_cookie.js"
 ##############################  随  机  函  数  ##############################
 rand() {
   min=$1
