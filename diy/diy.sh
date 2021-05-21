@@ -91,3 +91,4 @@ done
  rm -rf ${ScriptsDir}/adolf_pk.js
  rm -rf ${ScriptsDir}/jd_shop_follow_sku.js
  rm -rf ${ScriptsDir}/jd_shop_followsku.js
+ rm -rf ${ScriptsDir}/jddj_*
