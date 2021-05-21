@@ -36,7 +36,7 @@ my_scripts_list_2="jd_half_redrain.js jd_super_redrain.js"
 my_scripts_list_3="jx_inter_shop_sign.js jx_shop_follow_sku.js jx_shop_lottery.js jx_pk.js jx_martin.js jx_mi.js"
 # my_scripts_list_4="jd_stock.js jd_zjd.js jd_zjd_tuan.js jdzz.js jx_factory.js jx_factory_component.js jx_nc.js jx_products_detail.js jx_tokens.js jd_factory.js jd_xw.js"
 my_scripts_list_4="jddj_bean.js jddj_fruit.js jddj_fruit_collectWater.js jddj_getPoints.js jddj_plantBeans.js jddj_fruit_code.js jddj_cookie.js"
-my_scripts_list_5="jd_flp.js jd_oneplus.js jd_pasture.js"
+my_scripts_list_5="jx_flp.js jx_oneplus.js jx_pasture.js"
 ##############################  随  机  函  数  ##############################
 rand() {
   min=$1
