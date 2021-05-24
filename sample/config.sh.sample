@@ -456,6 +456,20 @@ ForOtherGlobal3=""
 ForOtherGlobal4=""
 ForOtherGlobal5=""
 ForOtherGlobal6=""
+################################## 14. 东东健康社区好友互助码互助码（选填） ##################################
+Jdhealth1=''
+Jdhealth2=''
+Jdhealth3=''
+Jdhealth4=''
+Jdhealth5=''
+Jdhealth6=''
+
+ForOtherJdhealth1=""
+ForOtherJdhealth2=""
+ForOtherJdhealth3=""
+ForOtherJdhealth4=""
+ForOtherJdhealth5=""
+ForOtherJdhealth6=""
 
 
 ##################################################################################################
