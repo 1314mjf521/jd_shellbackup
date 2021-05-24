@@ -118,6 +118,8 @@ function Combin_All() {
   export JDGLOBAL_SHARECODES=$(Combin_Sub ForOtherGlobal)
   ## 城城领现金(jd_city.js)
   export CITY_SHARECODES=$(Combin_Sub ForOtherCity)
+  ## 京东健康(jd_health.js)
+  export JDHEALTH_SHARECODES=$(Combin_Sub ForOtherJdhealth)
 }
 
 ## 转换JD_BEAN_SIGN_STOP_NOTIFY或JD_BEAN_SIGN_NOTIFY_SIMPLE
